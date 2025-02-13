@@ -15,6 +15,8 @@ public class MapProgramTest {
 		
 		System.out.println(student.get(1));
 
+		Map<Integer,String> vehicles = new HashTree();
+
 	}
 
 }
