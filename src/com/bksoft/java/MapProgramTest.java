@@ -16,7 +16,6 @@ public class MapProgramTest {
 		System.out.println(student.get(1));
 
 		Map<Integer,String> vehicles = new HashMap<Integer, String>();
-		vehicles.put(45,"Elevate");
 
 	}
 
