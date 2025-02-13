@@ -12,7 +12,6 @@ public class MapProgramTest {
 		student.put(23, "bikash");
 		
 		System.out.println(student);
-		System.out.println();
 		
 		System.out.println(student.get(1));
 
