@@ -18,6 +18,11 @@ public class ConcateString {
 		 * Internally, the compiler converts + into StringBuilder.append()
 		 * */
 		System.out.println(str+number);
+		
+		EnumPractice ee = EnumPractice.LOW;
+		System.out.println(ee);
+		ee = EnumPractice.HIGH;
+		System.out.println(ee);
 
 	}
 

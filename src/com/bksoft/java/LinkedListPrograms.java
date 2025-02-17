@@ -14,6 +14,13 @@ public class LinkedListPrograms {
 		stuData.add("Pandav");
 		
 		System.out.println(stuData);
+		
+		stuData.remove(0);
+		stuData.remove("Pandav");
+		stuData.add(0, "Bikash");
+		stuData.set(2, "SHIV");
+		
+		System.out.println(stuData);
 
 	}
 

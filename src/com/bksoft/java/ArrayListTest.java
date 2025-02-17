@@ -17,5 +17,6 @@ public class ArrayListTest {
 		
 		System.out.print("\n"+alist);
 	}
+	
 
 }
