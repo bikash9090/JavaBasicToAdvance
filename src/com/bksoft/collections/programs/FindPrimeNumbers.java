@@ -24,5 +24,9 @@ public class FindPrimeNumbers {
 		}
 		return true;
 	}
+	
+	public void demo() {
+		
+	}
 
 }
