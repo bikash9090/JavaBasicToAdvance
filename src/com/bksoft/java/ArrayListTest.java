@@ -1,6 +1,7 @@
 package com.bksoft.java;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class ArrayListTest {
 
@@ -16,6 +17,8 @@ public class ArrayListTest {
 		alist.remove(3);
 		
 		System.out.print("\n"+alist);
+		
+		Iterator<Integer> it = alist.iterator();
 	}
 	
 
