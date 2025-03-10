@@ -21,5 +21,9 @@ public class RepatingCharCount {
         }
 		
 	}
+	
+	public void demo() {
+		
+	}
 
 }
